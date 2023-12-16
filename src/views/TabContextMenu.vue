@@ -26,7 +26,7 @@ export default defineComponent({
 const route = useRoute()
 const router = useRouter()
 
-let a = 'c'
+let a = 'b'
 
 const props = defineProps<{
   menuState: MenuStateInterface
